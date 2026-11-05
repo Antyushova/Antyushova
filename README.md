@@ -1,4 +1,4 @@
-# Hi, I'm Anastasiia 👋
+# Hi, I'm Anastasia 
 
 Master's student in Applied Genomics at ITMO University. Passionate about structural bioinformatics, molecular modeling, and biological data analysis.
 
@@ -7,7 +7,7 @@ Master's student in Applied Genomics at ITMO University. Passionate about struct
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🎓 About Me
+## About Me
 - Master's student in **Applied Genomics** at ITMO University.
 - Bachelor's degree in **Bioengineering and Biotechnology** (ITMO) and **Chemical Technology** (SPCPU).
 - Winner of the ITMO Megaschool in Applied Genomics.
@@ -19,7 +19,7 @@ Master's student in Applied Genomics at ITMO University. Passionate about struct
 - **Data Analysis & Databases:** Python (pandas, numpy), R, OriginLab, SQL.
 - **Biological Databases:** PDB, UniProt, NCBI, ClinVar, EMBL-EBI.
 
-## 🚀 Featured Projects
+## Featured Projects
 
 - **[MDM2–PMI Interface Analysis & Alanine Scanning](https://colab.research.google.com/drive/1xlllFkiCsvG_ZLAwtfd8yjXIsCcmMDAd)**  
   Structural bioinformatics project analyzing the MDM2–PMI peptide complex (PDB: 3LNZ). Performed structure preparation, relaxation, and protonation using PyRosetta. Calculated interface descriptors (dSASA, RSA, H-bonds, hydrophobic contacts) and estimated binding energy changes (ΔΔG) via alanine scanning. Results were validated against experimental literature data.  
@@ -37,9 +37,9 @@ Master's student in Applied Genomics at ITMO University. Passionate about struct
   In silico study of the L68Q mutation in cystatin C (CST3), which causes hereditary cystatin C amyloid angiopathy. The analysis combined sequence-based amyloid prediction (PASTA 2.0, TANGO, WALTZ) with stability assessment of the monomer (3GAX) and dimer (1G96) using DUET, DynaMut2, mCSM, SDM, and FoldX.  
   *Stack: PyMOL, PyRosetta, FoldX, R, Python.*
 
-## 🌱 What I'm growing into
+## What I'm growing into
 - Deepening my skills in **R, Python, and Linux (bash)** for biological data analysis.
 - Focusing on reproducible research and clean Git workflows
 
-## 📫 How to reach me
+## How to reach me
 - Email: aantyushova@mail.ru
